@@ -1,0 +1,123 @@
+h1{
+    font-size: 90px;
+    font-family: cursive;
+    color: rgb(34, 34, 239);
+    text-align: center;
+
+}   
+h2{
+    text-decoration:wavy;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+p{
+text-align: justify;
+font-size: 17px;
+line-height: 1.5;
+font-family:'Times New Roman', Times, serif;
+strong{
+   color: red
+}
+em{
+    font-family: italic;
+    color:blue
+}
+}
+h3{
+    text-decoration:double;
+    text-align: left;
+    font-family: italic;
+    font-size: 55px;
+    color:black;
+}
+img {
+  width: 450px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+img{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+h4{
+    text-decoration: solid;
+    text-shadow: 02cm;
+    text-align: left;
+    font-family: italic;
+    font-size: 55px;
+    color: black;
+
+}
+ul{
+    list-style-type:circle;
+    color: black;
+}
+h5 {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  color: blue;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.resaltado{
+    font-weight: bold;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+td {
+  border: 1px solid #333;
+  padding: 8px;
+  text-align: center;
+}
+.servicios-clave {
+  font-size: 18px;
+  font-weight: 600;
+  text-align: left;    
+  margin: 6px 10%;
+  color: #333;
+}
+.tabla-servicios {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 12px auto 30px auto;
+  background-color: #f9f9f9;
+}
+.tabla-servicios td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+a {
+color: black;
+text-decoration: underline;
+font-size: 17px;
+}
+a:hover {
+color: red;
+text-decoration: underline;
+}
+.footer{
+    color: gray;
+    text-align: center;
+    text-decoration:underline;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+    background-color: #f0f0f0;
+}

@@ -1,0 +1,64 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 80px;
+    font-family:cursive;
+    color: blue;
+}
+h2{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:cyan;
+}
+h3{
+    font-size: 100px;
+    font-family: cursive;
+    color:blueviolet;
+}
+h4{
+    font-size: 70px;
+    font-family: fantasy;
+    color:slateblue;
+}
+h5{
+    font-size: 90px;
+    font-family: inherit;
+    color:tomato;
+}
+h6{
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+}
+p{
+    color:black;
+    text-decoration: double;
+    font-size: cursive;
+    font-size: 50px;
+    text-align: center;
+    background-color: crimson;
+}
+a {
+color: pink;
+text-decoration: none;
+font-size: 40px;
+}
+a:hover {
+color: red;
+text-decoration: underline;
+}
+
+    img {
+width: 350px;
+height: auto;
+border-radius: w0px;
+transition: transform 0.3s;
+}
+img:hover{
+    transform: scale(1.1)
+}
+button{
+    border-radius: 20px;
+    text-align: center;
+}
